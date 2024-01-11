@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Redux-Crud/static/css/main.e2cbcef4.css",
+    "main.js": "/Redux-Crud/static/js/main.679d2124.js",
+    "static/media/bootstrap-icons.woff?": "/Redux-Crud/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Redux-Crud/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/Redux-Crud/index.html",
+    "main.e2cbcef4.css.map": "/Redux-Crud/static/css/main.e2cbcef4.css.map",
+    "main.679d2124.js.map": "/Redux-Crud/static/js/main.679d2124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cbcef4.css",
+    "static/js/main.679d2124.js"
+  ]
+}
